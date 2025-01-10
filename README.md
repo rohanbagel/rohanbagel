@@ -34,7 +34,7 @@ Currently, I’m working on a web development project.
 
 <div align ="center">
   
-  ![snake gif](https://github.com/rohanbagel/rohanbagel/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/rohanbagel/rohanbagel/blob/output/github-snake.svg)
 </div>
 
 
