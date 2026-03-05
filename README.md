@@ -1,7 +1,7 @@
 # 💫 About Me:
-I am Rohan Benegal, a 2nd-year Computer Engineering student passionate about web development and programming.  
-I specialize in building dynamic websites using Django, HTML, CSS, and JavaScript and have experience in DSA with C++.  
-Currently, I’m working on a web development project.
+I am Rohan Benegal, a 3rd-year Computer Engineering student passionate about web development and programming.  
+I specialize in building dynamic websites using Django, HTML, CSS, JavaScript, MERN and PERN. I also have experience in DSA with Java.  
+Currently, I’m working on multiple web development projects.
 
 # 💻 Tech Stack:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) 
