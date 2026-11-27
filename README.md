@@ -1,41 +1,31 @@
-# 💫 About Me:
-I am Rohan Benegal, a 3rd-year Computer Engineering student passionate about web development and programming.  
-I specialize in building dynamic websites using Django, HTML, CSS, JavaScript, MERN and PERN. I also have experience in DSA with Java.  
-Currently, I’m working on multiple web development projects.
+# Rohan Benegal
 
-# 💻 Tech Stack:
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=plastic&logo=Twilio&logoColor=white) 
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=plastic&logo=godot-engine) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) 
-![Jinja](https://img.shields.io/badge/jinja-white.svg?style=plastic&logo=jinja&logoColor=black) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) 
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+I’m a Computer Engineering student at Fr. Conceicao Rodrigues College of Engineering in Mumbai (class of 2027). I build data pipelines, applied machine learning systems, and full-stack applications.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rohanbagel&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rohanbagel&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbagel&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[Portfolio](https://rohanbagel.dev/) · [LinkedIn](https://www.linkedin.com/in/rohanbenegal/)
 
----
-[![](https://visitcount.itsvg.in/api?id=rohanbagel&icon=0&color=0)](https://visitcount.itsvg.in)
+## Experience
 
-<div align ="center">
-  
-  ![snake gif](https://github.com/rohanbagel/rohanbagel/blob/output/github-snake.svg)
-</div>
+**Data Analyst Intern · Kissht, Corporate Strategy & Collections Analytics**
 
+- Deployed Apache Airflow workflows on Kubernetes and used Snowflake to automate a weekly escalation process, reducing manual work from about six hours to 30 minutes.
+- Built an XGBoost payment-propensity model that ranked about 1.8 million loans monthly and achieved 0.85 ROC-AUC on out-of-time validation.
+- Built a retrieval-augmented assistant for business and Snowflake schema questions, with deterministic schema lookup and SQL validation.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Selected projects
+
+| Project | What it does |
+| --- | --- |
+| [Niche SIH](https://github.com/rohanbagel/Niche_SIH) | Tracks Smart India Hackathon submission trends across 233+ problem statements using a Python job on AWS EC2 and a React dashboard backed by PostgreSQL. |
+| [Smart City Management Platform](https://github.com/rohanbagel/Hacknova_2026) | Gives citizens and municipal teams separate Django portals for reporting issues, assigning cleanup tasks, and viewing IoT sensor readings. |
+| [AirpodsAndro](https://github.com/rohanbagel/AirpodsAndro) | Uses Bluetooth Low Energy advertisements to show AirPods and case battery levels on Android. |
+| [LeetCode Multi Tracker](https://github.com/rohanbagel/Leetcode_Tracker) | A Next.js progressive web app that tracks progress for multiple LeetCode users and syncs historical data to Supabase. |
+
+I also built the [ASCII Dojo](https://www.rohanbagel.dev/play), a playable Three.js courtyard that doubles as an interactive portfolio.
+
+## Technical skills
+
+- **Data and ML** — Python, SQL, pandas, NumPy, scikit-learn, XGBoost, Apache Airflow, Snowflake, ChromaDB, Sentence Transformers
+- **Web and APIs** — Django, Django Channels, React, Next.js, Node.js, Express, JavaScript, HTML, CSS, REST, GraphQL
+- **Databases and infrastructure** — PostgreSQL, MongoDB, SQLite, Supabase, AWS EC2 and S3, Kubernetes, Git, GitHub
+- **Additional tools** — Java for data structures and algorithms, C, C++, Jinja, Bootstrap, Chart.js, Twilio, Figma, Blender, Godot
